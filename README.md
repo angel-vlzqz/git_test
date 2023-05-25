@@ -1,5 +1,4 @@
 # git_test
 
 Hello Odin!
-bruh
-help
+test test test test
